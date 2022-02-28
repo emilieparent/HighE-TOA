@@ -48,6 +48,10 @@ The following instructions have been adapted from [GeoTOA's](https://fermi.gsfc.
 * [PINT](https://github.com/nanograv/PINT)  pulsar timing software
 * [PRESTO](https://github.com/scottransom/presto) suite of pulsar software ** Only required if fitting template using 'presto' method.
 
+**REFERENCES AND CITATION:** \
+ This package use routines from the Geocentric TOA Tools ([GeoTOA](https://fermi.gsfc.nasa.gov/ssc/data/analysis/user)) 
+ by Matthew Kerr and Paul Ray. The unbinned maximum likelihood methods are described in [Ray et al. 2011, ApJS, 194, 17](https://ui.adsabs.harvard.edu/abs/2011ApJS..194...17R/abstract).\
+ 
 **INSTALLATION:**
 * Clone HighE-TOA (or download source) from github. This will make a directory called HighE-TOA with two subdirectories (bin and python)
 * Add the bin directory to your PATH
@@ -60,11 +64,6 @@ The following instructions have been adapted from [GeoTOA's](https://fermi.gsfc.
 * itemplate.py generates a template for use with upolyfold.py. Will also compute photon phases if input file does not contain 'PULSE_PHASE' column.
 * presto_pygaussfit.py: interactive profile fitter (multi-component Gaussians). Will write the results to file <filename>prof_16bins_template.gaussian,
   which can then be used as template when calling upolyfold.py 
-
-**REFERENCES AND CITATIONS:** \
- This package use routines from the Geocentric TOA Tools ([GeoTOA](https://fermi.gsfc.nasa.gov/ssc/data/analysis/user)) 
- by Matthew Kerr and Paul Ray. The unbinned maximum likelihood methods are described in [Ray et al. 2011, ApJS, 194, 17](https://ui.adsabs.harvard.edu/abs/2011ApJS..194...17R/abstract).\
-
 
 **USAGE:**
 
