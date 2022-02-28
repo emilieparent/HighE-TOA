@@ -43,8 +43,8 @@ The following instructions have been adapted from [GeoTOA's](https://fermi.gsfc.
 
 **PREREQUISITES:**
 * [Fermitools](https://github.com/fermi-lat/Fermitools-conda/wiki) software, version 2.0.8 or later (Python 3 version)
-* [Tempo](http://tempo.sourceforge.net/) or [Tempo2](http://www.atnf.csiro.au/research/pulsar/tempo2/) software installed 
-* A version of python with numpy, matplotlib and scipy installed.  
+* [Tempo](http://tempo.sourceforge.net/) or [Tempo2](http://www.atnf.csiro.au/research/pulsar/tempo2/) software 
+* A version of python with numpy, matplotlib and scipy  
 * [PINT](https://github.com/nanograv/PINT)  pulsar timing software
 * [PRESTO](https://github.com/scottransom/presto) suite of pulsar software ** Only required if fitting template using 'presto' method.
 
