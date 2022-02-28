@@ -6,7 +6,7 @@ Version: 1.0 \
 Date:	   2022 February 28 
 
 This package is an adaptation of the Geocentric TOA Tools (GeoTOA): <https://fermi.gsfc.nasa.gov/ssc/data/analysis/user/>
-developed by Matthew Kerr <matthew.kerr@nrl.navy.mil> and Paul Ray <paul.ray@nrl.navy.mil>. \
+developed by Matthew Kerr and Paul Ray. \
   *Package: Geocentric TOA Tools (GeoTOA)* \
   *Authors: Matthew Kerr <matthew.kerr@nrl.navy.mil> and Paul Ray <paul.ray@nrl.navy.mil>* \
   *Version: 2.0* \
