@@ -1,4 +1,4 @@
-# High-Energy TOA extraction tool for pulsar timing purposes
+## High-Energy TOA extraction tool for pulsar timing purposes
 
 Package: HighE-TOA (adapted from GeoTOA by Matthew Kerr & Paul Ray, see below) \
 Authors: Emilie Parent <parent@ice.csic.es> \
